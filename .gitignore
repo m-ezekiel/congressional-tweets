@@ -1,3 +1,6 @@
+# Config files
+/Functions/twitterConfig.R
+
 # History files
 .Rhistory
 .Rapp.history
