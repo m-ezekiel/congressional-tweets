@@ -1,5 +1,5 @@
 # Config files
-/Functions/twitterConfig.R
+/Functions/*Config.R
 
 # History files
 .Rhistory
