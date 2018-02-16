@@ -59,9 +59,9 @@ for (i in 1:nrow(df)) {
   
   ## Write data
   filename <- paste0(df$chamber[i], "_", df$party[i], "_", df$screen_name[i])
-  write_as_csv(user_timeline, file_name = paste0("Data/Tweets/", filename, "_timeline.csv"))
-  write_as_csv(user_hashtags, file_name = paste0("Data/Tweets/", filename, "_hashtags.csv"))
-  write_as_csv(user_mentions, file_name = paste0("Data/Tweets/", filename, "_mentions.csv"))
+  write_as_csv(user_timeline, file_name = paste0("Data/Twitter/", filename, "_timeline.csv"))
+  write_as_csv(user_hashtags, file_name = paste0("Data/Twitter/", filename, "_hashtags.csv"))
+  write_as_csv(user_mentions, file_name = paste0("Data/Twitter/", filename, "_mentions.csv"))
   
 }
 
@@ -73,6 +73,3 @@ median(original_content$favoriteCount)
 median(original_content$retweetCount)
 
 boxplot(original_content$retweetCount)
-
-## Write data
-write.csv(original_content, paste0("Data/Tweets/", userName, "_timeline.csv"), row.names = FALSE)
