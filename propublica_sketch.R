@@ -135,6 +135,9 @@ senateProfile_tbl$twitter_url[100] <- "https://twitter.com/SenToddYoung"
 senateProfile_tbl$twitter_handle <- gsub("https://twitter.com/", "", 
                                          senateProfile_tbl$twitter_url)
 
+## Append chamber
+senateProfile_tbl$chamber <- "Senate"
+
 ## Write data
 write.csv(senateProfile_tbl, "Output/senateProfile_tbl.csv", row.names = FALSE)
 
