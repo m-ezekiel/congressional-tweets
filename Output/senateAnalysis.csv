@@ -1,4 +1,4 @@
-"govTrack_id","lastName","party","govTrack_desc","govTrack_ideology","govTrack_leadership"
+"govTrack_id","lastName","partyName","govTrack_desc","govTrack_ideology","govTrack_leadership"
 300087,"Schumer"," Democrat"," rank-and-file Democrat",0.137156735361,0.479300806721
 400013,"Baldwin"," Democrat"," rank-and-file Democrat",0.16575941398,0.500949451936
 412490,"Blumenthal"," Democrat"," progressive Democratic leader",0.0384250909218,0.714883592293

@@ -1,5 +1,6 @@
 ## Congressional Tweets - ProPublica Sketch
-## Output: senateProfile_URLs, houseProfile_URLs
+## Input: propublica senate and house table URLS
+## Output: 
 ## c. Mon Jan  8 00:17:54 CST 2018
 
 ## Package setup
@@ -9,7 +10,7 @@ library(rvest)
 library(stringr)
 library(tidyr)
 library(tm)
-
+library(rtweet)
 
 ##################################
 ## PROPUBLICA SENATE LINK TABLE ##
@@ -84,16 +85,16 @@ rm_tag <- gsub("\\\">", "", rm_a)
 
 profile_URLs <- paste0("https://projects.propublica.org", rm_tag)
 
-## Write data
+## Append chamber
+df$chamber <- "Senate"
+
+## Create profile table w/ProPublica URLs
 senateProfile_tbl <- data.frame(df, propublica_url = profile_URLs, 
                                  stringsAsFactors = FALSE)
-write.csv(senateProfile_tbl, "Output/senateProfile_tbl.csv", row.names = FALSE)
 
-## Clean up
-rm(list = ls())
-
-
-senateProfile_tbl <- read.csv("Output/senateProfile_tbl.csv", stringsAsFactors = FALSE)
+######################
+## Get Twitter URLS ##
+######################
 
 n <- nrow(senateProfile_tbl)
 twitter_URL <- NULL
@@ -118,6 +119,7 @@ for (i in 1:n) {
 
 View(senateProfile_tbl)
 
+
 ################################
 ## Fix missing/incorrect data ##
 ################################
@@ -135,11 +137,19 @@ senateProfile_tbl$twitter_url[100] <- "https://twitter.com/SenToddYoung"
 senateProfile_tbl$twitter_handle <- gsub("https://twitter.com/", "", 
                                          senateProfile_tbl$twitter_url)
 
-## Append chamber
-senateProfile_tbl$chamber <- "Senate"
+
+
+#############################
+## BASIC TWITTER GOES HERE ##
+#############################
+
+## Get basic profile information w/Twitter API, append to senateProfile table
+twitterData <- lookup_users(senateProfile_tbl$twitter_handle)
+
+df <- cbind(senateProfile_tbl, twitterData)
 
 ## Write data
-write.csv(senateProfile_tbl, "Output/senateProfile_tbl.csv", row.names = FALSE)
+write.csv(df, "Output/senateProfile_tbl.csv", row.names = FALSE)
 
 ## Clean up
 rm(list = ls())
