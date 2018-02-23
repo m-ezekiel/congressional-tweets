@@ -1,104 +1,104 @@
 "govTrack_id","lastName","partyName","govTrack_desc","govTrack_ideology","govTrack_leadership"
-300087,"Schumer"," Democrat"," rank-and-file Democrat",0.137156735361,0.479300806721
+300002,"Alexander"," Republican"," centrist Republican leader",0.678052598131,0.701007566353
 400013,"Baldwin"," Democrat"," rank-and-file Democrat",0.16575941398,0.500949451936
+412251,"Barrasso"," Republican"," conservative Republican",0.914930794093,0.630406761266
+412330,"Bennet"," Democrat"," centrist Democrat",0.35126445596,0.330660739246
 412490,"Blumenthal"," Democrat"," progressive Democratic leader",0.0384250909218,0.714883592293
 400034,"Blunt"," Republican"," moderate Republican leader",0.807650639997,0.748998884362
 412598,"Booker"," Democrat"," rank-and-file Democrat",0.200149668924,0.50097872904
+400040,"Boozman"," Republican"," rank-and-file Republican",0.859491160374,0.482141979938
+400050,"Brown"," Democrat"," progressive Democratic leader",0.0696836415347,0.855744049084
+400054,"Burr"," Republican"," rank-and-file Republican",0.707120231462,0.421890181639
+300018,"Cantwell"," Democrat"," rank-and-file Democrat",0.242688821505,0.528149749433
+400061,"Capito"," Republican"," rank-and-file Republican",0.719530884377,0.324015488518
 400064,"Cardin"," Democrat"," moderate Democratic leader",0.175745023466,0.910810235046
+300019,"Carper"," Democrat"," rank-and-file Democrat",0.319703488791,0.561682219932
+412246,"Casey"," Democrat"," moderate Democratic leader",0.24796279772,0.725669214052
+412269,"Cassidy"," Republican"," rank-and-file Republican",0.746817161137,0.379233281377
+300023,"Cochran"," Republican"," moderate Republican follower",0.721450511663,0.151735862728
+300025,"Collins"," Republican"," centrist Republican leader",0.410536638018,0.725731630106
+412390,"Coons"," Democrat"," rank-and-file Democrat",0.249680981459,0.51311791308
+412248,"Corker"," Republican"," centrist Republican",0.679015070687,0.563885693896
+300027,"Cornyn"," Republican"," conservative Republican leader",0.898890260831,0.883791111674
+412681,"Cortez Masto"," Democrat"," moderate Democratic follower",0.29648816514,0.0701573201997
+412508,"Cotton"," Republican"," lonley conservative Republican follower",0.872113150649,0.226598171223
 300030,"Crapo"," Republican"," rank-and-file Republican",0.831417602877,0.515216505772
+412573,"Cruz"," Republican"," conservative Republican",0.913982049929,0.513850762106
+412549,"Daines"," Republican"," rank-and-file Republican",0.821073573309,0.368249092338
 412205,"Donnelly"," Democrat"," centrist Democratic follower",0.556441307664,0.329432223327
+412533,"Duckworth"," Democrat"," moderate Democratic follower",0.258092646365,0.194360219575
 300038,"Durbin"," Democrat"," progressive Democrat",0.0721957694812,0.672191855155
+300041,"Enzi"," Republican"," conservative Republican",0.900868910945,0.513785727913
+412667,"Ernst"," Republican"," rank-and-file Republican",0.778069207497,0.41033903008
+300043,"Feinstein"," Democrat"," moderate Democratic leader",0.154312152342,0.771205591968
+412556,"Fischer"," Republican"," rank-and-file Republican",0.865040379515,0.38818000692
+400134,"Flake"," Republican"," rank-and-file Republican",0.827898652878,0.595252256887
 412378,"Franken"," Democrat"," progressive Democrat",0.0148229029114,0.482978537927
+412406,"Gardner"," Republican"," rank-and-file Republican",0.729930181673,0.317196690809
 412223,"Gillibrand"," Democrat"," progressive Democrat",0.0316252910194,0.617040539892
+300047,"Graham"," Republican"," centrist Republican leader",0.706310939257,0.640862424122
+300048,"Grassley"," Republican"," moderate Republican leader",0.749493437162,0.938752936154
+412678,"Harris"," Democrat"," moderate Democratic follower",0.238261495883,0.0673596548038
+412680,"Hassan"," Democrat"," moderate Democratic follower",0.267340263239,0.0457114441234
+300052,"Hatch"," Republican"," moderate Republican leader",0.810458126902,0.976022391423
+412281,"Heinrich"," Democrat"," moderate Democratic follower",0.242063567821,0.216648517098
+412554,"Heitkamp"," Democrat"," centrist Democrat",0.509585351481,0.529469972685
 412218,"Heller"," Republican"," centrist Republican",0.677168494704,0.597504850366
+412200,"Hirono"," Democrat"," rank-and-file Democrat",0.10426402534,0.523122427965
+412494,"Hoeven"," Republican"," rank-and-file Republican",0.749571932278,0.5
+300055,"Inhofe"," Republican"," conservative Republican",1,0.500112365546
 400194,"Isakson"," Republican"," rank-and-file Republican",0.77031496323,0.604846239966
+412496,"Johnson"," Republican"," rank-and-file Republican",0.839784734429,0.448312974306
+412741,"Jones"," Democrat"," centrist Democratic follower",0.466331012167,0.00343422511348
+412582,"Kaine"," Democrat"," rank-and-file Democrat",0.255759646967,0.457387264377
+412679,"Kennedy"," Republican"," centrist Republican follower ",0.669247446959,0.0649994451592
+412545,"King"," Independent"," centrist Independent",0.401879827355,0.352496494563
 412242,"Klobuchar"," Democrat"," moderate Democratic leader",0.232116572078,0.720251675636
+412464,"Lankford"," Republican"," lonley conservative Republican follower",0.872070224957,0.266339211226
+300065,"Leahy"," Democrat"," rank-and-file Democrat",0.178336707836,0.659222298562
+412495,"Lee"," Republican"," conservative Republican",0.878316026005,0.586819323976
+412391,"Manchin"," Democrat"," centrist Democrat",0.582446084318,0.463954449348
 400253,"Markey"," Democrat"," progressive Democrat",0.00535859327782,0.488827529737
+300071,"McCain"," Republican"," rank-and-file Republican",0.734263817303,0.443069373989
+412243,"McCaskill"," Democrat"," centrist Democrat",0.398748458017,0.351702598263
+300072,"McConnell"," Republican"," moderate Republican leader",0.792421096923,1
 400272,"Menendez"," Democrat"," moderate Democratic leader",0.12996565892,0.915810507945
 412325,"Merkley"," Democrat"," progressive Democrat",0.00635441588391,0.434426808367
+400284,"Moran"," Republican"," rank-and-file Republican",0.768436535749,0.610766756068
+300075,"Murkowski"," Republican"," centrist Republican",0.579986319462,0.451619955264
 412194,"Murphy"," Democrat"," rank-and-file Democrat",0.115538275937,0.343035385839
-300081,"Reed"," Democrat"," progressive Democrat",0.0650440453539,0.572888149454
-412244,"Tester"," Democrat"," centrist Democrat",0.437544466669,0.610763909013
-412321,"Warner"," Democrat"," centrist Democrat",0.396212258046,0.548405333537
+300076,"Murray"," Democrat"," rank-and-file Democrat",0.120571418986,0.659946678462
+300078,"Nelson"," Democrat"," centrist Democratic leader",0.42666379825,0.68530466085
 412492,"Paul"," Republican"," rank-and-file Republican",0.758338023265,0.495550408055
-300025,"Collins"," Republican"," centrist Republican leader",0.410536638018,0.725731630106
-400050,"Brown"," Democrat"," progressive Democratic leader",0.0696836415347,0.855744049084
-300023,"Cochran"," Republican"," moderate Republican follower",0.721450511663,0.151735862728
-412545,"King"," Independent"," centrist Independent",0.401879827355,0.352496494563
+412666,"Perdue"," Republican"," moderate Republican follower",0.858270620539,0.173298442294
+412305,"Peters"," Democrat"," moderate Democratic follower",0.334636742174,0.280790332304
+400325,"Portman"," Republican"," centrist Republican leader",0.617915163073,0.788482683884
+300081,"Reed"," Democrat"," progressive Democrat",0.0650440453539,0.572888149454
+412322,"Risch"," Republican"," conservative Republican",0.908875646756,0.300255944353
+300083,"Roberts"," Republican"," conservative Republican",0.952513533649,0.596509060498
+412669,"Rounds"," Republican"," moderate Republican follower",0.848199745709,0.189370892287
+412491,"Rubio"," Republican"," moderate Republican leader",0.787588860862,0.797662130726
+400357,"Sanders"," Independent"," left-leaning Independent",0,0.403198872451
+412671,"Sasse"," Republican"," moderate Republican follower",0.736296212895,0.230416401603
+412507,"Schatz"," Democrat"," rank-and-file Democrat",0.104128452789,0.395838344499
+300087,"Schumer"," Democrat"," rank-and-file Democrat",0.137156735361,0.479300806721
+412471,"Scott"," Republican"," conservative Republican",0.87510536709,0.525695164728
+300088,"Sessions"," Republican"," rank-and-file Republican",0.811814813882,0.384978142538
 412323,"Shaheen"," Democrat"," moderate Democratic leader",0.226240730681,0.718426330194
+300089,"Shelby"," Republican"," centrist Republican follower ",0.685232653495,0.198795213688
+412742,"Smith"," Democrat"," centrist Democratic follower",0.359909414832,0
+300093,"Stabenow"," Democrat"," rank-and-file Democrat",0.178532152298,0.463901268785
+412734,"Strange"," Republican"," centrist Republican follower ",0.689454658915,0.017807717668
+412665,"Sullivan"," Republican"," rank-and-file Republican",0.716331617266,0.307492200749
+412244,"Tester"," Democrat"," centrist Democrat",0.437544466669,0.610763909013
+400546,"Thune"," Republican"," moderate Republican leader",0.845464945556,0.727163895684
+412668,"Tillis"," Republican"," moderate Republican follower",0.771317347445,0.100307132655
+400408,"Toomey"," Republican"," rank-and-file Republican",0.731646524694,0.54638816056
 400413,"Udall"," Democrat"," rank-and-file Democrat",0.292847871723,0.48120823435
+400415,"Van Hollen"," Democrat"," moderate Democratic follower",0.18494116631,0.114613100706
+412321,"Warner"," Democrat"," centrist Democrat",0.396212258046,0.548405333537
 412542,"Warren"," Democrat"," progressive Democrat",0.0436026871332,0.650966931595
 412247,"Whitehouse"," Democrat"," progressive Democrat",0.0784977432454,0.489389746482
 400432,"Wicker"," Republican"," rank-and-file Republican",0.813028215783,0.628986517004
-300052,"Hatch"," Republican"," moderate Republican leader",0.810458126902,0.976022391423
-400054,"Burr"," Republican"," rank-and-file Republican",0.707120231462,0.421890181639
-300027,"Cornyn"," Republican"," conservative Republican leader",0.898890260831,0.883791111674
-300041,"Enzi"," Republican"," conservative Republican",0.900868910945,0.513785727913
-300048,"Grassley"," Republican"," moderate Republican leader",0.749493437162,0.938752936154
-300083,"Roberts"," Republican"," conservative Republican",0.952513533649,0.596509060498
-400546,"Thune"," Republican"," moderate Republican leader",0.845464945556,0.727163895684
-400408,"Toomey"," Republican"," rank-and-file Republican",0.731646524694,0.54638816056
-300076,"Murray"," Democrat"," rank-and-file Democrat",0.120571418986,0.659946678462
-412494,"Hoeven"," Republican"," rank-and-file Republican",0.749571932278,0.5
-412391,"Manchin"," Democrat"," centrist Democrat",0.582446084318,0.463954449348
-300075,"Murkowski"," Republican"," centrist Republican",0.579986319462,0.451619955264
-412322,"Risch"," Republican"," conservative Republican",0.908875646756,0.300255944353
-300043,"Feinstein"," Democrat"," moderate Democratic leader",0.154312152342,0.771205591968
-412554,"Heitkamp"," Democrat"," centrist Democrat",0.509585351481,0.529469972685
 300100,"Wyden"," Democrat"," moderate Democratic leader",0.189800553352,0.824839964323
-412491,"Rubio"," Republican"," moderate Republican leader",0.787588860862,0.797662130726
-400040,"Boozman"," Republican"," rank-and-file Republican",0.859491160374,0.482141979938
-300055,"Inhofe"," Republican"," conservative Republican",1,0.500112365546
-400284,"Moran"," Republican"," rank-and-file Republican",0.768436535749,0.610766756068
-400325,"Portman"," Republican"," centrist Republican leader",0.617915163073,0.788482683884
-300088,"Sessions"," Republican"," rank-and-file Republican",0.811814813882,0.384978142538
-300002,"Alexander"," Republican"," centrist Republican leader",0.678052598131,0.701007566353
-412248,"Corker"," Republican"," centrist Republican",0.679015070687,0.563885693896
-300047,"Graham"," Republican"," centrist Republican leader",0.706310939257,0.640862424122
-412496,"Johnson"," Republican"," rank-and-file Republican",0.839784734429,0.448312974306
-412471,"Scott"," Republican"," conservative Republican",0.87510536709,0.525695164728
-300019,"Carper"," Democrat"," rank-and-file Democrat",0.319703488791,0.561682219932
-412200,"Hirono"," Democrat"," rank-and-file Democrat",0.10426402534,0.523122427965
-412507,"Schatz"," Democrat"," rank-and-file Democrat",0.104128452789,0.395838344499
-300093,"Stabenow"," Democrat"," rank-and-file Democrat",0.178532152298,0.463901268785
-412251,"Barrasso"," Republican"," conservative Republican",0.914930794093,0.630406761266
-412246,"Casey"," Democrat"," moderate Democratic leader",0.24796279772,0.725669214052
-412390,"Coons"," Democrat"," rank-and-file Democrat",0.249680981459,0.51311791308
-412243,"McCaskill"," Democrat"," centrist Democrat",0.398748458017,0.351702598263
-412573,"Cruz"," Republican"," conservative Republican",0.913982049929,0.513850762106
-412495,"Lee"," Republican"," conservative Republican",0.878316026005,0.586819323976
-412330,"Bennet"," Democrat"," centrist Democrat",0.35126445596,0.330660739246
-300018,"Cantwell"," Democrat"," rank-and-file Democrat",0.242688821505,0.528149749433
-412556,"Fischer"," Republican"," rank-and-file Republican",0.865040379515,0.38818000692
-412582,"Kaine"," Democrat"," rank-and-file Democrat",0.255759646967,0.457387264377
-400357,"Sanders"," Independent"," left-leaning Independent",0,0.403198872451
-300065,"Leahy"," Democrat"," rank-and-file Democrat",0.178336707836,0.659222298562
-300078,"Nelson"," Democrat"," centrist Democratic leader",0.42666379825,0.68530466085
-400134,"Flake"," Republican"," rank-and-file Republican",0.827898652878,0.595252256887
-412281,"Heinrich"," Democrat"," moderate Democratic follower",0.242063567821,0.216648517098
-300072,"McConnell"," Republican"," moderate Republican leader",0.792421096923,1
-300071,"McCain"," Republican"," rank-and-file Republican",0.734263817303,0.443069373989
-300089,"Shelby"," Republican"," centrist Republican follower ",0.685232653495,0.198795213688
-412269,"Cassidy"," Republican"," rank-and-file Republican",0.746817161137,0.379233281377
-412464,"Lankford"," Republican"," lonley conservative Republican follower",0.872070224957,0.266339211226
-412305,"Peters"," Democrat"," moderate Democratic follower",0.334636742174,0.280790332304
-400061,"Capito"," Republican"," rank-and-file Republican",0.719530884377,0.324015488518
-412666,"Perdue"," Republican"," moderate Republican follower",0.858270620539,0.173298442294
-412668,"Tillis"," Republican"," moderate Republican follower",0.771317347445,0.100307132655
-412549,"Daines"," Republican"," rank-and-file Republican",0.821073573309,0.368249092338
-412669,"Rounds"," Republican"," moderate Republican follower",0.848199745709,0.189370892287
-412671,"Sasse"," Republican"," moderate Republican follower",0.736296212895,0.230416401603
-412508,"Cotton"," Republican"," lonley conservative Republican follower",0.872113150649,0.226598171223
-412667,"Ernst"," Republican"," rank-and-file Republican",0.778069207497,0.41033903008
-412406,"Gardner"," Republican"," rank-and-file Republican",0.729930181673,0.317196690809
-412665,"Sullivan"," Republican"," rank-and-file Republican",0.716331617266,0.307492200749
-412533,"Duckworth"," Democrat"," moderate Democratic follower",0.258092646365,0.194360219575
-412681,"Cortez Masto"," Democrat"," moderate Democratic follower",0.29648816514,0.0701573201997
-400415,"Van Hollen"," Democrat"," moderate Democratic follower",0.18494116631,0.114613100706
-412678,"Harris"," Democrat"," moderate Democratic follower",0.238261495883,0.0673596548038
-412680,"Hassan"," Democrat"," moderate Democratic follower",0.267340263239,0.0457114441234
-412734,"Strange"," Republican"," centrist Republican follower ",0.689454658915,0.017807717668
-412679,"Kennedy"," Republican"," centrist Republican follower ",0.669247446959,0.0649994451592
 412428,"Young"," Republican"," centrist Republican follower ",0.612677952609,0.244408562143
-412742,"Smith"," Democrat"," centrist Democratic follower",0.359909414832,0
-412741,"Jones"," Democrat"," centrist Democratic follower",0.466331012167,0.00343422511348

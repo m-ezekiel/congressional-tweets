@@ -1,6 +1,6 @@
 ## Congressional Tweets - Table Joins Sketch
 ## Input: senateProfile_tbl, senateAnalysis
-## Output: N/A
+## Output: legislative profile tables
 ## c. Sat Feb 17 13:18:56 CST 2018
 
 library(dplyr)
