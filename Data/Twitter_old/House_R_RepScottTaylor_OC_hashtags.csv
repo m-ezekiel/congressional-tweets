@@ -1,0 +1,1 @@
+"sort(table(na.omit(unlist(original_content$hashtags))), decreasing = TRUE)"
